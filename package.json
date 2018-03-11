@@ -1,0 +1,19 @@
+{
+  "name": "miniature-monkey",
+  "version": "1.0.0",
+  "description": "Contact list with huge stack of technologies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mydylan/miniature-monkey.git"
+  },
+  "author": "Taras Kostiuchenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mydylan/miniature-monkey/issues"
+  },
+  "homepage": "https://github.com/mydylan/miniature-monkey#readme"
+}
